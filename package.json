@@ -1,7 +1,7 @@
 {
-  "name": "SelfBot",
+  "name": "MINNALMURALI",
   "version": "1.0.0",
-  "description": "SELFBOT",
+  "description": "MINNALMURALI",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -56,7 +56,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skiuwers"
+    "url": "git+https://t.me/+-XZsS6y66zI0YWZl"
   },
   "keywords": [
     "botwea"
@@ -64,7 +64,7 @@
   "author": "SELFBOT",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/skiuwers"
+    "url": "https://t.me/+-XZsS6y66zI0YWZl"
   },
-  "homepage": "https://github.com/skiuwers"
+  "homepage": "https://t.me/+-XZsS6y66zI0YWZl"
 }
