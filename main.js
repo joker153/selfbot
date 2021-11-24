@@ -7,15 +7,15 @@
   ◪ Base : Self-Bot°©2K21
   ◪ Library : Baileys [2, 2138, 50] 
   ◪ Browser : Microsoft Edge
-  ◪ Author : ZeeoneOFC | https://youtube.com/c/zeeoneofc
-  ◪ Recode : ItsMeArip | https://youtube.com/c/skiuwers
+  ◪ Author : MINNALMURALI | https://t.me/+-XZsS6y66zI0YWZl
+  ◪ Recode : MINNALMURALI | https://t.me/+-XZsS6y66zI0YWZl
 
   ◪ Note : Atur semua nya di setting.json dan device.json
   ◪ Notice : Apikey login lolhuman // https://api.lolhuman.xyz
   ◪ Notice : Apikey login xteam // https://api.xteam.xyz
   ◪ Warning : Kalau mau recode yang teliti ya ngab!
   
-  ◪ THX CREATOR BOTWEA 
+  ◪ THX CREATOR MINNALMURALI
   ◪ THX PENYEDIA REST API 
   ◪ THX PENYEDIA MODULE
   ◪ THX PENGGUNA BOTWEA 
